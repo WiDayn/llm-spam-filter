@@ -28,7 +28,7 @@ LLM SPAM Filter is a WordPress plugin that uses Large Language Model (LLM) APIs 
 
 ### Method 1: Manual Installation
 
-1. Upload plugin files to `wp-content/plugins/wp-llm-comment-filter/`
+1. Upload plugin files to `wp-content/plugins/llm-comment-filter/`
 2. Activate "LLM SPAM Filter" in WordPress admin "Plugins" menu
 3. Go to "Settings > LLM SPAM Filter" to configure
 
@@ -36,7 +36,7 @@ LLM SPAM Filter is a WordPress plugin that uses Large Language Model (LLM) APIs 
 
 ```bash
 cd wp-content/plugins/
-git clone https://github.com/yourusername/wp-llm-comment-filter.git
+git clone https://github.com/yourusername/llm-comment-filter.git
 ```
 
 Then activate the plugin in WordPress admin.
